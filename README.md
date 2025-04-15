@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Face rec**
 
-- 👨‍💻 All of my projects are available at [https://dharmikbhingradiya.wixsite.com/portfolio](https://dharmikbhingradiya.wixsite.com/portfolio)
+- 👨‍💻 All of my projects are available at [portfolio](https://dharmikbhingradiya.wixsite.com/portfolio)
 
-- 💬 Ask me about **java, Springboot/**
+- 💬 Ask me about **java, Springboot**
 
 - 📫 How to reach me **dharmik953b@gmail.com**
 
-- 📄 Know about my experiences [https://66f352d8-6fdb-4b56-812e-ed545cad98fa.filesusr.com/ugd/b384c6_458f3472b039424faaca52a82d4856c5.pdf](https://66f352d8-6fdb-4b56-812e-ed545cad98fa.filesusr.com/ugd/b384c6_458f3472b039424faaca52a82d4856c5.pdf)
+- 📄 Know about my experiences [resume](https://66f352d8-6fdb-4b56-812e-ed545cad98fa.filesusr.com/ugd/b384c6_458f3472b039424faaca52a82d4856c5.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
