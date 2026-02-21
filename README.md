@@ -1,25 +1,224 @@
-## Hi there 👋
+# 🧠 Enterprise Generative AI Architect | RAG Systems | Governance-First AI | AWS
 
-<h1 align="center">Hi 👋, I'm Dharmik</h1>
-<h3 align="center">A passionate Backend developer from USA</h3>
+Designing production-grade AI systems for regulated, high-scale environments where **accuracy, traceability, and performance are non-negotiable**.
 
-- 🔭 I’m currently working on **Face rec**
+---
 
-- 👨‍💻 All of my projects are available at [portfolio](https://dharmikbhingradiya.wixsite.com/portfolio)
+## 👋 Professional Summary
 
-- 💬 Ask me about **java, Springboot**
+AI/ML Engineer specializing in **Enterprise Generative AI systems**, Retrieval-Augmented Generation (RAG), and scalable LLM deployment on AWS.
 
-- 📫 How to reach me **dharmik953b@gmail.com**
+My work focuses on building **governed, audit-ready AI platforms** rather than isolated models. I design multi-tenant architectures, hybrid retrieval systems, fine-tuned LLM pipelines, and compliance-aligned AI systems capable of operating under strict regulatory and operational constraints.
 
-- 📄 Know about my experiences [resume](https://66f352d8-6fdb-4b56-812e-ed545cad98fa.filesusr.com/ugd/b384c6_458f3472b039424faaca52a82d4856c5.pdf)
+I operate at the intersection of:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dharmik953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmik953" height="30" width="40" /></a>
-</p>
+- Generative AI architecture  
+- Retrieval intelligence  
+- Model governance  
+- Scalable cloud deployment  
+- Cost-optimized fine-tuning  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I build AI systems that organizations can trust, scale, and defend.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmik953&show_icons=true&locale=en&layout=compact" alt="dharmik953" /></p>
+---
 
+# 🚀 Core Technical Areas
+
+## 🔹 Generative AI & LLM Systems
+- Retrieval-Augmented Generation (RAG)
+- Hybrid Search (Vector + Keyword)
+- Dynamic Alpha Query-Aware Retrieval
+- LangGraph Multi-Step Agent Orchestration
+- Context Grounding & Citation Enforcement
+- Hallucination Mitigation Frameworks
+
+## 🔹 LLM Fine-Tuning & Alignment
+- LoRA / QLoRA parameter-efficient adaptation
+- Domain-specific fine-tuning
+- PPO / DPO / RLHF alignment techniques
+- Quantization-aware performance tuning
+- Flash Attention optimization
+
+## 🔹 Machine Learning Systems
+- Supervised & Unsupervised Learning
+- Ensemble Models (XGBoost, LightGBM)
+- Time-series & Predictive Analytics
+- Large-scale data processing (Spark)
+- Real-time & batch inference pipelines
+
+## 🔹 Cloud & Infrastructure
+- AWS (SageMaker, EC2, S3, Lambda, API Gateway)
+- VPC-isolated inference endpoints
+- Auto-scaling model serving
+- Multi-tenant SaaS AI architecture
+
+---
+
+# 🏗 Enterprise Generative AI Architecture Expertise
+
+I design production-grade RAG platforms capable of operating in **regulated financial environments** with:
+
+- 1M+ document ingestion per day
+- 40K+ real-time queries per day
+- 2–4 second latency SLA
+- Multi-tenant isolation
+- Hybrid LLM (self-hosted + managed fallback)
+- Human-in-the-loop gating
+- Full audit reconstruction
+
+### Architecture Layers I Design:
+
+- Presentation Layer (RBAC + tenant isolation)
+- API Gateway + WAF security layer
+- Agent Orchestration (query classification, HITL gates)
+- Hybrid Retrieval Layer (vector + keyword with dynamic weighting)
+- LLM Layer (fine-tuned + fallback strategy)
+- Governance & Observability Layer (drift, hallucination, audit logs)
+
+This is systems engineering—not prompt engineering.
+
+---
+
+# 📚 Selected Projects
+
+## 1️⃣ Compliance-Ready RAG Platform
+
+Designed a multi-tenant RAG system enabling secure retrieval of financial and risk documentation.
+
+**Impact:**
+- Reduced hallucination rates via citation-enforced generation
+- Introduced dynamic hybrid retrieval improving compliance-sensitive recall
+- Built full audit logging (query → retrieval → model version → output hash)
+- Achieved token reduction of ~25–30% through context optimization
+
+---
+
+## 2️⃣ Cost-Optimized LLM Fine-Tuning Framework
+
+Implemented LoRA / QLoRA adaptation pipelines to improve domain alignment.
+
+**Impact:**
+- Reduced GPU memory usage significantly
+- Cut fine-tuning costs by over 50%
+- Improved domain-specific response accuracy by ~15%
+- Enabled rapid experimentation cycles using MLflow tracking
+
+---
+
+## 3️⃣ Scalable ML Analytics Platform
+
+Migrated single-node data pipelines to distributed Spark architecture.
+
+**Impact:**
+- Reduced data processing time from hours to under 40 minutes
+- Improved analytics delivery efficiency by ~40%
+- Enabled faster model iteration and deployment cycles
+
+---
+
+# ⚙️ System Design & Production Capabilities
+
+I design systems with:
+
+- Blue/Green & Canary deployment strategies
+- Circuit breaker fallback logic for LLM overload
+- Retrieval recall monitoring (Recall@K, MRR)
+- Embedding & query distribution drift detection
+- Immutable audit logs (S3 + lifecycle policies)
+- Confidence-based response gating
+- Context sufficiency validation before generation
+
+Focus: **resilience, explainability, and operational stability.**
+
+---
+
+# 🔄 MLOps & Deployment Stack
+
+- MLflow (experiment tracking & model registry)
+- Docker containerization
+- CI/CD (GitHub Actions, Jenkins)
+- SageMaker real-time endpoints
+- FastAPI inference services
+- Auto-scaling & load-based routing
+- Model versioning & rollback <5 minutes
+- Semantic response caching (Redis)
+
+Production-first mindset. Every model is versioned, traceable, and reproducible.
+
+---
+
+# 🛡 AI Governance & Compliance Focus
+
+I build AI systems that align with:
+
+- SOC2 control expectations
+- Model Risk Management (MRM) practices
+- Audit reconstruction requirements
+- Data privacy & PII masking pipelines
+- Cross-tenant isolation enforcement
+- Regulatory query sensitivity controls
+
+Implemented:
+
+- Mandatory metadata schema for document traceability
+- Citation enforcement at generation time
+- Confidence scoring & hallucination detection
+- Human-in-the-loop escalation pathways
+- Embedding poisoning & retrieval risk mitigation strategies
+
+In regulated environments, trust > speed.
+
+---
+
+# 💰 Cost Optimization & Performance Engineering
+
+Performance engineering is built into architecture decisions.
+
+Implemented:
+
+- Parameter-efficient fine-tuning (LoRA / QLoRA)
+- Context compression & token reduction strategies
+- Retrieval pre-validation before generation
+- Adaptive chunk sizing
+- Flash Attention integration
+- Hybrid LLM fallback to control API dependency costs
+
+Results:
+- 25–30% reduction in inference token consumption
+- >50% reduction in training GPU costs
+- 2–4 second SLA under high query volume
+
+---
+
+# 🧩 Leadership & Decision-Making Signals
+
+- Challenged static hybrid retrieval → built dynamic query-aware weighting
+- Shifted system objective from “speed” to “auditability” mid-development
+- Prevented production data leakage through feature pipeline redesign
+- Advocated for open-source fine-tuned LLM over external API dependency
+- Built structured evaluation frameworks replacing misleading accuracy metrics
+- Standardized reusable ML deployment templates increasing team productivity ~40%
+
+Approach:
+Data-backed decisions. Architecture-first thinking. Long-term scalability over shortcuts.
+
+---
+
+# 🤝 Collaboration & Contact
+
+I’m interested in collaborating on:
+
+- Enterprise Generative AI systems
+- RAG architecture research
+- LLM fine-tuning optimization
+- AI governance frameworks
+- Scalable ML platform engineering
+
+If you're building production-grade AI systems that require architecture depth, regulatory awareness, and measurable impact — let’s connect.
+
+📧 Email: dharmik953b@gmail.com  
+📍 Location: Texas, USA  
+
+---
+
+### Building AI systems that are scalable, governed, and enterprise-ready.
